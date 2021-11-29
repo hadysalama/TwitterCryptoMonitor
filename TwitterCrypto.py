@@ -50,8 +50,3 @@ except KeyboardInterrupt:
 # data = open('data/response.json', 'w')
 # data.write(response)
 # data.close()
-
-
-# binance_wallet_iphone = 'bnb10749k3j3lk763s9amgfhtyf72pfggf22x7glc0'
-# ledger_record = 'bnb10749k3j3lk763s9amgfhtyf72pfggf22x7glc0'
-# print(ledger_record == binance_wallet_iphone) True I had the wrong memo!! pasted address twice
